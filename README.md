@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MauricioJC3
 - 👀 I’m interested in developer the software
-- 🌱 I’m currently learning javascript and php
+- 🌱 I’m currently learning Java and php
 - 📫 How to reach me a.mauriciojc03@gmail.com
 
 <!---
