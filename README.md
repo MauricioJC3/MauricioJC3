@@ -1,119 +1,30 @@
-<h1 align="center"><b>Hi , I'm Mauricio J </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Programador+Back-end;entusiasta+de+la+tecnologia;PHP+God;Laravel+Go;Java+God;Aprendiendo+cada+dia+mas" alt="Typing SVG" /></a>
-</p>
+<h2> Hola, Soy Mauricio! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- Desarrollador apacionado por PHP
-- Juega Dragon city en los ratos libres
-- Actualmente aprendiendo Analisis y desarrollo de software en el Sena
-- Actualmente estoy abierto a conocer nuevas tecnologias que me ayuden a mejorara y ampliar mi conocimiento
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
-<br>
-
-<p align="center">
-
-- **Lenguajes**:
-    
-    <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java" />
-  </a>
-</p>
-
-<br>   
-    
-- **Front-End**:
-
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-  </a>
-</p>
-
-<br>
-
-
-- **Programas y Herramientas**:
-
-    <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,notion" />
-  </a>
-</p>
-
-<br>
-
-- **Extras**:
-
-    <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel" />
-  </a>
-</p>
-
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
-<p> Cositas </p>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> Contactame</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-
-<li>
-<a href="a.mauriciojc03@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  andresMauricio-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
+&nbsp;<div align="center">
+  [![Spotify Playlist](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&title=In%20My%20Head%20-%20Bedroom)](https://open.spotify.com/playlist/4ACyGMI9dNksfchud9thRf?si=muG_V8lDRLOuK1uBDCmXAg&pi=u-n3kOw7pUQ5ea)
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
+[![Twitter: MauricioJC](https://img.shields.io/twitter/follow/mauro?style=social)](https://twitter.com/mauro)
+[![GitHub MauricioJC](https://img.shields.io/github/followers/MauricioJC3?label=follow&style=social)](https://github.com/MauricioJC3)
 
-<div align='center'>
+- 🌍 He trabajado con **PHP**, **Laravel**, **Vue**, **Express**, **Docker**, and more!
+- 🔭 Dragonciti God!
+  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> testo
 
 
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">	
+<img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white" alt="GitHub" style="vertical-align:middle; margin:4px; height:40px; border-radius:16px; border: 1px solid #ddd;">
+<img src="https://img.shields.io/badge/-Git-F44D27?style=flat&logo=Git&logoColor=white" alt="Git" style="vertical-align:middle; margin:4px; height:40px; border-radius:16px; border: 1px solid #ddd;">
+<img src="https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=Laravel&logoColor=white" alt="Laravel" style="vertical-align:middle; margin:4px; height:40px; border-radius:16px; border: 1px solid #ddd;">
+<img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion" style="vertical-align:middle; margin:4px; height:40px; border-radius:16px; border: 1px solid #ddd;">
 
-</div>
-<br>
-<br>
-<br>
-<br>
+</p>
+
+
