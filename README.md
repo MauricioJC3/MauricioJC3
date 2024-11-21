@@ -8,7 +8,7 @@
 [![GitHub MauricioJC](https://img.shields.io/github/followers/MauricioJC3?label=follow&style=social)](https://github.com/MauricioJC3)
 
 - 🌍 He trabajado con **PHP**, **Laravel**, **Vue**, **Express**, **Docker**, and more!
-- 🔭 Dragonciti God!
+- 🔭 Dragon city God!
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> testo
 
