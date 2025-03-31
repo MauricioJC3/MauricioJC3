@@ -44,6 +44,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="40">
+    <img src="https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white" alt="pnpm" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40">
   <img src="https://img.shields.io/badge/-Git-F44D27?style=flat&logo=Git&logoColor=white" alt="Git" height="40">
