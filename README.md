@@ -44,7 +44,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="40">
-    <img src="https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white" alt="pnpm" height="40">
+  <img src="https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=white" alt="pnpm" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40">
   <img src="https://img.shields.io/badge/-Git-F44D27?style=flat&logo=Git&logoColor=white" alt="Git" height="40">
@@ -52,6 +52,8 @@
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion" height="40">
   <img src="https://img.shields.io/badge/-AnyDesk-ec4c24?style=flat&logo=AnyDesk&logoColor=white" alt="AnyDesk" height="40">
   <img src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat&logo=Microsoft-Teams&logoColor=white" alt="Microsoft Teams" height="40">
+  <img src="https://img.shields.io/badge/-n8n-ef6c00?style=flat&logo=n8n&logoColor=white" alt="n8n" height="40">
+  <img src="https://img.shields.io/badge/-Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white" alt="Linux Mint" height="40">
 </p>
 
 ---
